@@ -20,7 +20,7 @@ mudar nome de origin para o novo
 git remote rename origin github2
 
 adicionar o outro repo remote com o segundo nome
-https://github.com/vagnerasilva/testegit1.git
+git remote add github1 https://github.com/vagnerasilva/testegit1.git
 
 quando fizer git remote -v 
 
